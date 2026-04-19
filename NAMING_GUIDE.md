@@ -4,14 +4,13 @@ This document explains the naming conventions and file structure standards I fol
 
 ---
 
-  ## 1. 🗂 Repository & Folder Naming
+  ## 1. 🗂 Repository&Folder Naming
 
 **Format:** `kebab-case`
-- Lowercase letters only
-- Use `-` to separate words
-- Optionally, prefix repo names with `madmad-` for branding and clarity
+- lowercase letters only
+- use `-` to separate words
 
-✍ Examples:
+✍ examples:
 - `basic-computer`
 - `madmad-cpp-handout`
 - `madmad-todo`
@@ -23,18 +22,20 @@ This document explains the naming conventions and file structure standards I fol
 
 ### 👨‍💻 Source Code & General Files
 **Format:** `snake_case`  
-- Lowercase only  
-- Use `_` to separate words
+- lowercase only  
+- use `_` to separate words
 
-✍ Examples:
+✍ examples:
 - `bank_account.cpp`
 - `flow_chart_links.md`
 - `memory_management.pdf`
 
 ### 📌 Important Root Files (GitHub Standards)
 **Format:** `SCREAMING_SNAKE_CASE`
+- uppercase only  
+- use `_` to separate words
 
-✍ Examples:
+✍ examples:
 - `README.md`
 - `LICENSE`
 - `SLEEP_CYCLE_GUIDE.md`
@@ -42,9 +43,9 @@ This document explains the naming conventions and file structure standards I fol
 ---
 
 ## 💡 Notes
-- 🤖 I’ve tried to keep all names clear, descriptive, and consistent.  
-- 👾 I avoid using ambiguous abbreviations.  
-- 🗑 Temporary or personal files are isolated in separate folders or prefixed clearly.
+- 🤖 i’ve tried to keep all names clear, descriptive, and consistent.  
+- 👾 i avoid using ambiguous abbreviations.  
+- 🗑 temporary or personal files are isolated in separate folders or prefixed clearly.
 ---
 
-🗽 Feel free to check out my repositories to see these guidelines in action!
+🗽 feel free to check out my repositories to see these guidelines in action!
