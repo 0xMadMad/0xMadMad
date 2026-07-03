@@ -1,10 +1,10 @@
 # About Me
 👤 I'm MohamadReza, nicknamed MadMad||MimRe.<br>
-💻 I started coding at 15 with C<br>
-🐍 skilled in Python, developing C++ skills<br>
-👾 learning and researching AI, focusing on CV<br>
-💣 passionate about combining CV, AR/VR & Robotics<br>
-🤖 I also develop trading bots and tools using MQL4/5 & Python<br>
+💻 I started coding at 15 with C 💀<br>
+🐍 skilled in Python, developing C++ skills ⚰️<br>
+🗃️ learning and researching AI, focusing on CV 👾<br>
+💣 passionate about combining CV, AR/VR & Robotics 💣<br>
+🤖 I also develop trading bots and tools using MQL4/5 & Python 📉<br>
 ♟ chess and basketball since childhood 🏀<br>
 
 
