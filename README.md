@@ -1,26 +1,26 @@
 # About Me
-👤 I'm MohamadReza, nicknamed MadMad||MimRe.<br>
-💻 I started coding at 15 with C 💀<br>
-🐍 skilled in Python, developing C++ skills ⚰️<br>
-🗃️ learning and researching AI, focusing on CV 👾<br>
-💣 passionate about combining CV, AR/VR & Robotics 👓<br>
-🤖 I also develop trading bots and tools using MQL4/5 & Python 📉<br>
-♟️ chess and basketball since childhood 🏀<br>
+I'm MohamadReza, a Computer Science student who learns by building things, not just reading about them.
+I started coding with C at 15, and since then, i've always enjoyed building things from scratch, searching, solving problems, wanting to know "how does this actually work under the hood?" instead of just looking at the surface, the process of building something, and that curiosity directly shapes what i build and making it better, more useful, adding more features and things like that.
+python has become my strongest tool and i've built different projects with it. i also have hands-on experience with MQL4/5, where i've built bots, tools and assistants.
+i'm currently exploring Computer Vision with a long-term interest in combining it with IoT, AR/VR, Robotics and similar areas.
+If you like building things too, it could be cool to build something together and move projects forward.
+i'm chess and basketball player since childhood.
 
 
 # Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
 ![MQL4](https://img.shields.io/badge/MQL4-%23FF6600.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-%23FF6600.svg?style=for-the-badge&logo=java&logoColor=white) <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
-
+ 
 
 # Socials
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A8E8.svg?logo=telegram&logoColor=white)](https://t.me/OxMadMad)
+[![Telegram Channel](https://img.shields.io/badge/zer0_to_inf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-rahmanian)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:madmadpv@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xmadmad)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](SEARCH_'0xmadmad'_IN_ADDFRIENDS-BY-USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xmadmad)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMadMad?s=21)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/0xMadMad)
