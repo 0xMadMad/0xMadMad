@@ -23,7 +23,7 @@ i'm chess and basketball player since childhood.
 
 # Socials
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A8E8.svg?logo=telegram&logoColor=white)](https://t.me/OxMadMad)
-[![Telegram Channel](https://img.shields.io/badge/zer0_to_inf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/z3r0t01nf)
+[![Telegram Channel](https://img.shields.io/badge/My_Telegram_Channle-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/z3r0t01nf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-rahmanian)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:madmadpv@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](SEARCH_'0xmadmad'_IN_ADDFRIENDS-BY-USERNAME)
