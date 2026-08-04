@@ -7,6 +7,12 @@ If you like building things too, it could be cool to build something together an
 i'm chess and basketball player since childhood.
 
 
+# What I Build
+- [PacketShooter](https://github.com/0xMadMad/packet-shooter) — Serverless, end-to-end encrypted P2P chat over raw UDP — X25519 key exchange, ChaCha20-Poly1305 AEAD, STUN-based NAT traversal, full-screen TUI
+- [Lehaam](https://github.com/0xMadMad/lehaam) — Smart sleep-cycle optimizer — calculates ideal sleep/wake times from 90-minute cycles; ships as CLI, Windows executable, and Telegram bot
+- [MadMad ToDo](https://github.com/0xMadMad/madmad-todo) — Interactive CLI task manager for people who live in the terminal — organize tasks into multiple lists with priorities and completion tracking, everything persisted to JSON and exportable to CSV/Excel
+
+
 # Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
