@@ -1,10 +1,9 @@
 # About Me
-I'm MohamadReza, a Computer Science student who learns by building things, not just reading about them.
-I started coding with C at 15, and since then, i've always enjoyed building things from scratch, searching, solving problems, wanting to know "how does this actually work under the hood?" instead of just looking at the surface, the process of building something, and that curiosity directly shapes what i build and making it better, more useful, adding more features and things like that.
-python has become my strongest tool and i've built different projects with it. i also have hands-on experience with MQL4/5, where i've built bots, tools and assistants.
-i'm currently exploring Computer Vision with a long-term interest in combining it with IoT, AR/VR, Robotics and similar areas.
-If you like building things too, it could be cool to build something together and move projects forward.
-i'm chess and basketball player since childhood.
+I'm MohamadReza, a Computer Science student who learns by building things, not just reading about them.<br>
+I started coding with C at 15, and since then, i've always enjoyed building things from scratch, searching, solving problems, wanting to know "how does this actually work under the hood?" instead of just looking at the surface, the process of building something, and that curiosity directly shapes what i build and making it better, more useful, adding more features and things like that.<br>
+python has become my strongest tool and i've built different projects with it. i also have hands-on experience with MQL4/5, where i've built bots, tools and assistants.<br>
+i'm currently exploring Computer Vision with a long-term interest in combining it with IoT, AR/VR, Robotics and similar areas.<br>
+If you like building things too, it could be cool to build something together and move projects forward.<br>
 
 
 # What I Build
